@@ -1,0 +1,4 @@
+com/example/demo/DemoApplication.class
+com/example/service/Service.class
+com/example/resources/Endpoint.class
+com/example/config/MyResourceConfig.class
